@@ -1,0 +1,52 @@
+50 10
+1406 148 1623 471 66 935 1227 523 649 1219 
+insertEdge 523 66
+insertEdge 471 649
+insertEdge 471 1219
+SumAdjacentNode 649
+insertEdge 471 523
+insertEdge 935 649
+insertEdge 523 1623
+insertEdge 523 649
+eraseEdge 471 649
+insertEdge 1623 1406
+eraseEdge 471 66
+SumAdjacentNode 148
+SumAdjacentNode 649
+insertEdge 523 1227
+eraseEdge 66 471
+SumAdjacentNode 1227
+insertEdge 1623 1227
+insertEdge 649 935
+SumAdjacentNode 1219
+eraseEdge 523 1623
+eraseEdge 1219 1227
+insertEdge 935 1623
+SumAdjacentNode 66
+insertEdge 1219 1406
+SumAdjacentNode 66
+SumAdjacentNode 649
+SumAdjacentNode 1406
+eraseEdge 1219 935
+SumAdjacentNode 148
+insertEdge 66 1227
+SumAdjacentNode 148
+insertEdge 1623 1227
+SumAdjacentNode 1227
+eraseEdge 148 471
+insertEdge 471 523
+SumAdjacentNode 1227
+eraseEdge 471 649
+SumAdjacentNode 1623
+SumAdjacentNode 1623
+insertEdge 523 1219
+SumAdjacentNode 523
+SumAdjacentNode 523
+eraseEdge 148 935
+eraseEdge 1219 523
+SumAdjacentNode 1219
+insertEdge 148 935
+SumAdjacentNode 523
+SumAdjacentNode 935
+insertEdge 935 471
+eraseEdge 66 148
