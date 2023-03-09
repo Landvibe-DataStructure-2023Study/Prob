@@ -1,0 +1,52 @@
+50 10
+1536 318 1896 635 226 975 1033 770 914 1011 
+insertEdge 635 914
+insertEdge 1896 770
+eraseEdge 226 1536
+eraseEdge 318 770
+MaxAdjacentNode 1536
+MaxAdjacentNode 318
+MaxAdjacentNode 1011
+eraseEdge 318 1011
+insertEdge 914 1896
+eraseEdge 914 1896
+insertEdge 914 1896
+MaxAdjacentNode 914
+MaxAdjacentNode 975
+MaxAdjacentNode 1033
+insertEdge 1896 1536
+MaxAdjacentNode 975
+insertEdge 318 1896
+MaxAdjacentNode 318
+MaxAdjacentNode 635
+eraseEdge 1896 635
+eraseEdge 1536 1896
+eraseEdge 318 635
+eraseEdge 770 914
+MaxAdjacentNode 1033
+MaxAdjacentNode 318
+insertEdge 1536 318
+insertEdge 1896 1011
+insertEdge 1896 318
+MaxAdjacentNode 1011
+insertEdge 1896 226
+insertEdge 1536 1896
+eraseEdge 1011 975
+eraseEdge 1536 635
+insertEdge 226 318
+insertEdge 318 914
+MaxAdjacentNode 1536
+eraseEdge 1011 975
+MaxAdjacentNode 914
+insertEdge 226 1896
+eraseEdge 635 1033
+eraseEdge 1033 975
+eraseEdge 1896 770
+insertEdge 318 1896
+insertEdge 635 1033
+insertEdge 226 635
+insertEdge 1033 1011
+insertEdge 226 1033
+insertEdge 914 1536
+eraseEdge 318 1536
+MaxAdjacentNode 318
